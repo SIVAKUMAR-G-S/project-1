@@ -1,0 +1,12 @@
+.siva{
+    border: 2px solid black;
+    background-color: aqua;
+    position: relative;
+    top: 20px;
+}
+.kumar{
+    border: 4px solid yellow;
+    background-color: blue;
+    position: relative;
+    top: 20px;
+}

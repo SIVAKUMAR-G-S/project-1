@@ -1,0 +1,29 @@
+.red {
+    background-color:aqua;
+    height: 800px;
+    border:2px solid black;
+}
+.one{
+    margin: 10px;
+    height: 20px;
+    background-color:grey;
+    border-radius: 20px;
+    border: 2px solid white;
+
+}
+.two{
+    margin: 10px;
+    height: 20px;
+    background-color:purple;
+    border-radius: 20px;
+    border:2px solid white;
+
+}
+.three{
+    margin: 10px;
+    height: 20px;
+    background-color:hotpink;
+    border-radius: 20px;
+    border: 2px solid white;
+
+}
